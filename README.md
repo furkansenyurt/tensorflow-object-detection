@@ -16,4 +16,4 @@ Once the server is up and running, open your browser, and go to http://localhost
 
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of App](https://hizliresim.com/R13YM8)
