@@ -16,4 +16,4 @@ Once the server is up and running, open your browser, and go to http://localhost
 
 
 
-![Image of App](https://hizliresim.com/R13YM8)
+![Image of App](https://i.imgyukle.com/2020/06/22/CceW1p.png)
